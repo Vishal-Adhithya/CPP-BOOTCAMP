@@ -25,7 +25,7 @@
   }
 
   for (char i:my_name){
-
+      if(i == 0)break;
       std::cout << "character value is " << i << std:: endl;
 
   }
