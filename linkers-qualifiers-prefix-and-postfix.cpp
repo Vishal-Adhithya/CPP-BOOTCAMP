@@ -20,7 +20,7 @@
 // static is used to track an entire lifespan of variable...
   int lifeup(){
       static int life  = 3;
-      return ++life; // ++life first increment the value and then give the result so we want them what kind of thing you need.
+      return ++life; // ++life first increment the value and then give the result so we want them what kind of thing you need
     }
 
   int main(){
