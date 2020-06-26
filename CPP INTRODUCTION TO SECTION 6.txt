@@ -1,0 +1,12 @@
+CPP INTRODUCTION TO SECTION 6:)
+
+
+IN THIS SECTION WE ARE GOING TO LEARN ABOUT:
+                                      *FUNCTIONS
+                                      *INDEPTH ABOUT FINCTIONS
+                                      *HEADER FILES
+                                      *TEMPLATING
+                                      *FUNCTION POINTERS
+                                      *NULL POINTER
+                                      *MACORS
+                                        
