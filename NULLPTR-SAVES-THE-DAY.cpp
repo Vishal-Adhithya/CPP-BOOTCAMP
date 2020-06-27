@@ -22,5 +22,10 @@ int main(){
   printval(5.33);
   printval(nullptr);
 
+// what is the use of null pointers?
+
+// the nullptr keyword can be used to test if a pointer or a handle
+//reference is null before the reference is used.
+
   return 0;
   }
