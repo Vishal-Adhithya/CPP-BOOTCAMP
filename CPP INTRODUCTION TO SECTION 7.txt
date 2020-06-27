@@ -1,0 +1,9 @@
+CPP INTRODUCTION TO SECTION 7:
+      TOPICS THAT WE ARE GOING TO LEARN:
+                                OBJECT ORIENTED PROGRAMMING
+                                WHAT ARE CLASSES AND OBJECT
+                                MUTIPLE WAYS TO CREATE THEM
+                                GETTERS & SETTERS
+                                CONSTRUCTOR & DESTRUCTOR
+
+                              
