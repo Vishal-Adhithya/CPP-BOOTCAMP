@@ -13,7 +13,6 @@ public:
 
 
 int main(){
-  sam.secret = 33;
   User sam;
   sam.name  = "Sam";
   sam.classMessage();
@@ -24,3 +23,4 @@ int main(){
 
   return 0;
   }
+// gold

@@ -1,0 +1,2 @@
+E:\My Code and every thing\My old c++ courses programs\CPP BOOTCAMP\CPP-BOOTCAMP\getter_and_setters_for_a_data_member\getter_and_setters_for_a_data_member\Debug\getter_and_setters_for_a_data_member.exe
+E:\My Code and every thing\My old c++ courses programs\CPP BOOTCAMP\CPP-BOOTCAMP\getter_and_setters_for_a_data_member\getter_and_setters_for_a_data_member\Debug\getter_and_setters_for_a_data_member.pdb
