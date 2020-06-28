@@ -1,0 +1,6 @@
+﻿  disable the constructor.cpp
+disable the constructor.obj : error LNK2005: "public: __thiscall Phone::Phone(class Phone const &)" (??0Phone@@QAE@ABV0@@Z) already defined in Constructor-destructor -and-rule-of-3.obj
+disable the constructor.obj : error LNK2005: "public: __thiscall Phone::Phone(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int const &)" (??0Phone@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0ABH@Z) already defined in Constructor-destructor -and-rule-of-3.obj
+disable the constructor.obj : error LNK2005: "public: __thiscall Phone::~Phone(void)" (??1Phone@@QAE@XZ) already defined in Constructor-destructor -and-rule-of-3.obj
+disable the constructor.obj : error LNK2005: _main already defined in Constructor-destructor -and-rule-of-3.obj
+E:\My Code and every thing\My old c++ courses programs\CPP BOOTCAMP\CPP-BOOTCAMP\Constructor-destructor -and-rule-of-3\Debug\Constructor-destructor -and-rule-of-3.exe : fatal error LNK1169: one or more multiply defined symbols found
