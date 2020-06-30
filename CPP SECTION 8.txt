@@ -1,0 +1,10 @@
+
+CPP SECTION 8:
+		*INHERITANCE
+		*overwriting operator and methods
+		*polymorphism 
+		*friend and virtual
+		
+	
+	
+		
