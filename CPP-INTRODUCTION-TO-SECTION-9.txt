@@ -1,0 +1,9 @@
+CPP INTRODUCTION TO SECTION 9:
+
+                          * SMART POINTERS
+                          * SMART POINTERS ALLOWS US TO AUTOMATE THE PROCESS OF MEMORY MANAGMENT...
+                          * TYPES OF SMART POINTERS
+                          * WHY SMART POINTERS
+                          * NEED OF IT.
+                          *HOW TO USE THEM.
+                    
