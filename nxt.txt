@@ -1,0 +1,71 @@
+/*#include <iostream>
+#include<string>
+
+
+	class Man {
+		std::string _name;
+		int _age;
+		Man() {}
+		// protected means that the child classes want to use these codes.........
+	protected:
+		// first we are going to override the constructor
+		// we are creating variable with referece...
+		// then inserting to everyone 
+
+		Man(const std::string& name, const int& age) : _name(name), _age(age) {}// thesee objects are helper classes which help you to create more interesting classes
+
+		void run(){ puts("I can run");}
+	public:
+			
+		void sayName() const;// putting const since it doesn't return anything...
+// private cannot defined outside...
+
+	};
+
+	void Man::sayName() const {
+		std::cout << "My name is: " << _name << std::endl;
+	}
+	// inhertance.............
+	// superman
+	class Superman : public Man {
+		bool flight;
+	public:
+		Superman(std::string name) : Man(name, 26) {
+			void run(); 
+
+		}
+
+
+
+	};
+
+
+
+	// spiderman																					LEARN CODE ONLINE .COM
+
+
+	class spiderman : public Man {
+		bool webbing;
+	public:
+		 void Spiderman(std::string name); : Man(name, 19) {
+			void run(){puts("I can run at normal speed"); }
+
+		}
+	};
+
+
+
+	int main() {
+
+
+
+
+		return 0;
+
+	}
+
+	void spiderman::Spiderman(std::string name)
+	{
+	}
+	*/
+
