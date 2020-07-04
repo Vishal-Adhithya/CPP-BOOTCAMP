@@ -1,0 +1,7 @@
+CPP INTRODUCTION SECTION 10:
+
+                  * SEMANTICS..
+                  *MOVE SEMANTICS..
+                  *FILE MANAGEMENT..
+                  *FILE HANDLING
+                  
